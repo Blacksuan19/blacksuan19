@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there
 
 I'm Abubakar Yagoub, known online as Blacksuan19, I'm passionate about Deep
 learning, neural networks, and linux, i like to rice my Arch (BTW) installation
@@ -8,5 +8,10 @@ networks, I'm usually enjoying some music while working on side projects.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blacksuan19/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-5acfff?style=for-the-badge&logo=kaggle&logoColor=white)](http://kaggle.com/abubakaryagob/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/blacksuan19)
+
+### 📩 Latest Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=blacksuan19&theme=github_dark)

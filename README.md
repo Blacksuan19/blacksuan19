@@ -1,4 +1,4 @@
-### 👋 Hi there
+## 👋 Hi there
 
 I'm Abubakar Yagoub, known online as Blacksuan19, I'm passionate about Deep
 learning, neural networks, and linux, i like to rice my Arch (BTW) installation
@@ -9,9 +9,10 @@ networks, I'm usually enjoying some music while working on side projects.
 [![Kaggle](https://img.shields.io/badge/Kaggle-5acfff?style=for-the-badge&logo=kaggle&logoColor=white)](http://kaggle.com/abubakaryagob/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/blacksuan19)
 
-### 📩 Latest Posts
+## 📩 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Credit Card Fraud Detection With Pytorch](http://blacksuan19.tk/projects/credit-card-fraud-detection-with-pytorch/)
 - [Bank Negara Dapp](http://blacksuan19.tk/projects/bank-negara/)
 - [Leisure Places In India](http://blacksuan19.tk/projects/leisure-places-in-india/)

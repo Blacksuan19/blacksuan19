@@ -12,7 +12,6 @@ networks, I'm usually enjoying some music while working on side projects.
 ## 📩 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Credit Card Fraud Detection With Pytorch](http://blacksuan19.tk/projects/credit-card-fraud-detection-with-pytorch/)
 - [Bank Negara Dapp](http://blacksuan19.tk/projects/bank-negara/)
 - [Leisure Places In India](http://blacksuan19.tk/projects/leisure-places-in-india/)

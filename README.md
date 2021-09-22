@@ -17,7 +17,6 @@ be found in Kaggle. <br> <br>
 ## 📩 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Credit Card Fraud Detection With Pytorch](http://blacksuan19.dev/projects/credit-card-fraud-detection-with-pytorch/)
 - [Bank Negara Dapp](http://blacksuan19.dev/projects/bank-negara/)
 - [Leisure Places In India](http://blacksuan19.dev/projects/leisure-places-in-india/)

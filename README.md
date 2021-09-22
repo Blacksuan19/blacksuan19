@@ -1,9 +1,8 @@
 ## 👋 Hi there
 
-I'm Abubakar Yagoub, known online as Blacksuan19, I'm passionate about Deep
-learning, neural networks, and linux, i like to rice my Arch (BTW) installation
-to my heart's content. When I'm not busy learning something new about neural
-networks, I'm usually enjoying some music while working on side projects.
+I'm Abubakar Yagoub, I'm passionate about Deep learning, neural networks, and
+Linux. When I'm not busy learning something new, I'm usually lifting some
+weights, enjoying music or working on side projects.
 
 I prefer notebooks for Data Science projects, All my data science projects can
 be found in Kaggle. <br> <br>

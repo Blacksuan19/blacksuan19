@@ -4,8 +4,8 @@ I'm Abubakar Yagoub, I'm passionate about Deep learning, neural networks, and
 Linux. When I'm not busy learning something new, I'm usually lifting some
 weights, enjoying music or working on side projects.
 
-I prefer notebooks for Data Science projects, All my data science projects can
-be found in Kaggle. <br> <br>
+I prefer notebooks for Data Science projects, some of my data science projects
+can be found in Kaggle. <br> <br>
 
 ## ✉️ Get In Touch
 
@@ -25,4 +25,8 @@ be found in Kaggle. <br> <br>
 - [Leisure Places In India](http://blacksuan19.dev/projects/leisure-places-in-india/)
 <!-- BLOG-POST-LIST:END -->
 
-![Stats](https://github-readme-stats.vercel.app/api?username=blacksuan19&theme=github_dark&show_icons=true&count_private=true&custom_title=Stats&hide_border=true)
+## 📊 Stats
+
+![github Stats](https://github-readme-stats.vercel.app/api?username=blacksuan19&theme=github_dark&show_icons=true&count_private=true&custom_title=Github%20Stats&hide_border=true)
+
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Blacksuan19&layout=compact&theme=github_dark&hide_border=true)

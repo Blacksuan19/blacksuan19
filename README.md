@@ -30,6 +30,59 @@ can be found in Kaggle. <br> <br>
 ![github Stats](https://github-readme-stats.vercel.app/api?username=blacksuan19&theme=github_dark&show_icons=true&count_private=true&custom_title=Github%20Stats&hide_border=true)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2034%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 720 Contributions in the Year 2022
+ > 
+> 📦 4.8 MB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 30 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kuala_Lumpur
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   10 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Shell                    9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.36% 
+C++                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
+CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.91% 
+Dart                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.91%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Blacksuan19/Blacksuan19/master/charts/bar_graph.png) 
+
+
+ Last Updated on 28/05/2022 18:21:47 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![wakatime stats](<https://github-readme-stats.vercel.app/api/wakatime?username=Blacksuan19&layout=compact&theme=github_dark&hide_border=true&hide=Other&custom_title=Waka%20Stats%20(last%207%20days)>) -->

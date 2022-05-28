@@ -29,4 +29,4 @@ can be found in Kaggle. <br> <br>
 
 ![github Stats](https://github-readme-stats.vercel.app/api?username=blacksuan19&theme=github_dark&show_icons=true&count_private=true&custom_title=Github%20Stats&hide_border=true)
 
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Blacksuan19&layout=compact&theme=github_dark&hide_border=true&hide=Other)
+![wakatime stats](<https://github-readme-stats.vercel.app/api/wakatime?username=Blacksuan19&layout=compact&theme=github_dark&hide_border=true&hide=Other&custom_title=Waka%20Stats%20(last%207%20days)>)

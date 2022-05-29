@@ -17,7 +17,6 @@ can be found in Kaggle. <br> <br>
 ## 📩 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Creating Computer vision datasets](http://blacksuan19.dev/blog/creating-datasets/)
 - [Knowledge Graphs in Python](http://blacksuan19.dev/projects/Knowledge_Graphs/)
 - [Credit Card Fraud Detection With Pytorch](http://blacksuan19.dev/projects/credit-card-fraud-detection-with-pytorch/)

@@ -17,11 +17,11 @@ can be found in Kaggle. <br> <br>
 ## 📩 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Continuos Integration/Delivery on Monorepos](http://blacksuan19.dev/blog/github-actions-monorepos/)
 - [Creating Computer vision datasets](http://blacksuan19.dev/blog/creating-datasets/)
 - [Knowledge Graphs in Python](http://blacksuan19.dev/projects/Knowledge_Graphs/)
 - [Credit Card Fraud Detection With Pytorch](http://blacksuan19.dev/projects/credit-card-fraud-detection-with-pytorch/)
 - [Bank Negara Dapp](http://blacksuan19.dev/projects/bank-negara/)
-- [Leisure Places In India](http://blacksuan19.dev/projects/leisure-places-in-india/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 Stats

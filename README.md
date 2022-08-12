@@ -4,9 +4,6 @@ I'm Abubakar Yagoub, I'm passionate about Deep learning, neural networks, and
 Linux. When I'm not busy learning something new, I'm usually lifting some
 weights, enjoying music or working on side projects.
 
-I prefer notebooks for Data Science projects, some of my data science projects
-can be found in Kaggle. <br> <br>
-
 ## ✉️ Get In Touch
 
 [![Email](https://img.shields.io/badge/Email-f1f1f1?style=for-the-badge&logo=gmail&logoColor=0f111a)](mailto:hi@blacksuan19.dev)

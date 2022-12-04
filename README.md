@@ -14,7 +14,6 @@ weights, enjoying music or working on side projects.
 ## 📩 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Continuos Integration and Delivery on Monorepos](https://www.blacksuan19.dev/blog/github-actions-monorepos/)
 - [Creating Computer vision datasets](https://www.blacksuan19.dev/blog/creating-datasets/)
 - [Knowledge Graphs in Python](https://www.blacksuan19.dev/projects/Knowledge_Graphs/)

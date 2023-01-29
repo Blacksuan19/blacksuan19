@@ -14,9 +14,9 @@ weights, enjoying music or working on side projects.
 ## 📩 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Continuos Integration and Delivery on Monorepos](/blog/github-actions-monorepos/)
-- [Creating Computer vision datasets](/blog/creating-datasets/)
-- [Knowledge Graphs in Python](/projects/Knowledge_Graphs/)
-- [Credit Card Fraud Detection With Pytorch](/projects/credit-card-fraud-detection-with-pytorch/)
-- [Bank Negara Dapp](/projects/bank-negara/)
+- [Continuos Integration and Delivery on Monorepos](https://blacksuan19.dev/blog/github-actions-monorepos/)
+- [Creating Computer vision datasets](https://blacksuan19.dev/blog/creating-datasets/)
+- [Knowledge Graphs in Python](https://blacksuan19.dev/projects/Knowledge_Graphs/)
+- [Credit Card Fraud Detection With Pytorch](https://blacksuan19.dev/projects/credit-card-fraud-detection-with-pytorch/)
+- [Bank Negara Dapp](https://blacksuan19.dev/projects/bank-negara/)
 <!-- BLOG-POST-LIST:END -->

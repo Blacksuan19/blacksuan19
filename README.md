@@ -7,7 +7,6 @@ weights, enjoying music or working on side projects.
 ## 📩 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Riverpod Stream Provider Caching](https://blacksuan19.dev/blog/riverpod-stream-provider-caching/)
 - [Continuos Integration and Delivery on Monorepos](https://blacksuan19.dev/blog/github-actions-monorepos/)
 - [Creating Computer vision datasets](https://blacksuan19.dev/blog/creating-datasets/)

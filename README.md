@@ -7,9 +7,9 @@ weights, enjoying music or working on side projects.
 ## 📩 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Custom SageMaker Deployment: A Comprehensive Guide](https://blacksuan19.dev/blog/custom-sagemaker-deployment/)
 - [Zero Setup SQL Migration in production](https://blacksuan19.dev/blog/zero-setup-sql-migration/)
 - [Riverpod Stream Provider Caching](https://blacksuan19.dev/blog/riverpod-stream-provider-caching/)
 - [Continuos Integration and Delivery on Monorepos](https://blacksuan19.dev/blog/github-actions-monorepos/)
 - [Creating Computer vision datasets](https://blacksuan19.dev/blog/creating-datasets/)
-- [Knowledge Graphs in Python](https://blacksuan19.dev/projects/Knowledge_Graphs/)
 <!-- BLOG-POST-LIST:END -->

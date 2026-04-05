@@ -7,9 +7,9 @@ weights, enjoying music or working on side projects.
 ## 📩 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Rebranding to AOLabs: Migrating My Cloudflare Stack to a New Domain](https://aolabs.dev/blog/rebranding-to-aolabs-cloudflare-migration/)
-- [Dynamic Factory Design Pattern: A Production-Ready Approach for Managing AI Models in Python](https://aolabs.dev/blog/llm-dynamic-factory-design-pattern/)
-- [Mastering Custom SageMaker Deployment: A Comprehensive Guide](https://aolabs.dev/blog/custom-sagemaker-deployment/)
-- [Zero Setup SQL Migration in production](https://aolabs.dev/blog/zero-setup-sql-migration/)
-- [Riverpod Stream Provider Caching](https://aolabs.dev/blog/riverpod-stream-provider-caching/)
+- [Varo Believe to Monarch: Automated PDF Statement Conversion for Monarch Money](https://aolabs.dev/projects/varo-believe-to-monarch/)
+- [structx: Type-Safe Structured Data Extraction from Any Document Using LLMs](https://aolabs.dev/projects/structx-llm-structured-data-extraction/)
+- [scrapy-llm: Schema-Driven AI Web Scraping as a Scrapy Middleware](https://aolabs.dev/projects/scrapy-ai-llm-web-scraping/)
+- [Wallhaven Wallpaper Reborn: A Full-Featured KDE Plasma 6 Wallpaper Plugin](https://aolabs.dev/projects/plasma-wallpaper-wallhaven-reborn/)
+- [KDE Plasma 6 Dotfiles: A Tiling-Focused Desktop with One-Shot Setup](https://aolabs.dev/projects/kde-plasma-6-dotfiles/)
 <!-- BLOG-POST-LIST:END -->

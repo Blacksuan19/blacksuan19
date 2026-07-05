@@ -1,8 +1,10 @@
 ## 👋 Hi there
 
-I'm Abubakar Yagoub, I'm passionate about Deep learning, neural networks, and
-Linux. When I'm not busy learning something new, I'm usually lifting some
-weights, enjoying music or working on side projects.
+I'm Abubakar Omer, an AI/ML engineer who enjoys solving practical ML and automation problems. I build tools like StructX, scrapy-llm, and h1b-mcp, an MCP server for checking H-1B sponsorship evidence.
+
+Right now, I'm going deeper into ML infrastructure optimization, GPU performance, CUDA, model serving, distributed inference, and quantitative finance ML.
+
+When I'm not building things, I'm usually lifting, reading on my Kobo, or spending time with family.
 
 ## 📩 Latest Posts
 
